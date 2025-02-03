@@ -79,6 +79,9 @@ Choisir Utiliser l’adresse de serveur DNS suivante et entrer 192.168.1.1.
 Cliquer sur OK et fermer les fenêtres.
 
 ## Commandes Windows Server et Windows 10
+
 nslookup ns.wilders.lan
+
 nslookup client.wilders.lan
+
 nslookup dns.wilders.lan
