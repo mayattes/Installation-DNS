@@ -1,7 +1,7 @@
 # Installation-DNS
 
 ## 1. Ajout d'un nouveau DNS dans Windows Server
-... Ouvrir le Gestionnaire de serveur ..
+...Ouvrir le Gestionnaire de serveur..
 
 ... Cliquer sur Ajouter des rôles et fonctionnalités ..
 
